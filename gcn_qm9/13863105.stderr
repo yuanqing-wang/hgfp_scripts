@@ -1,0 +1,1990 @@
+[21:52:16] Warning: molecule is tagged as 3D, but all Z coords are zero
+[21:52:17] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:17] ERROR: Could not sanitize molecule ending on line 9097
+[21:52:17] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:17] Warning: molecule is tagged as 3D, but all Z coords are zero
+[21:52:17] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:17] ERROR: Could not sanitize molecule ending on line 35785
+[21:52:17] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 62866
+[21:52:18] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 66832
+[21:52:18] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 66968
+[21:52:18] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 67073
+[21:52:18] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 67196
+[21:52:18] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 67400
+[21:52:18] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 82757
+[21:52:18] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:18] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:18] ERROR: Could not sanitize molecule ending on line 82794
+[21:52:18] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:22] ERROR: Could not sanitize molecule ending on line 234189
+[21:52:22] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:22] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] ERROR: Could not sanitize molecule ending on line 235350
+[21:52:22] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] ERROR: Could not sanitize molecule ending on line 235388
+[21:52:22] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] ERROR: Could not sanitize molecule ending on line 235547
+[21:52:22] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] ERROR: Could not sanitize molecule ending on line 235677
+[21:52:22] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:22] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:22] ERROR: Could not sanitize molecule ending on line 235776
+[21:52:22] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 295488
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 295526
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 295920
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 296130
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 296275
+[21:52:23] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 307998
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 308158
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 308363
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 308646
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 308787
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 309021
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 309158
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 310276
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 310397
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 310574
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 310715
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 314632
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 314816
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 315309
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 316390
+[21:52:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 316574
+[21:52:23] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 318796
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 319121
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 319346
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:23] ERROR: Could not sanitize molecule ending on line 319431
+[21:52:23] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 408871
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 408915
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 439217
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 439255
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 439492
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 439709
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 439792
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 439988
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 440352
+[21:52:26] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:26] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:26] ERROR: Could not sanitize molecule ending on line 440544
+[21:52:26] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 544188
+[21:52:28] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 544365
+[21:52:28] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 544406
+[21:52:28] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 551417
+[21:52:28] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 551541
+[21:52:28] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 551849
+[21:52:28] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 551890
+[21:52:28] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:28] ERROR: Could not sanitize molecule ending on line 551931
+[21:52:28] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:29] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:29] ERROR: Could not sanitize molecule ending on line 555340
+[21:52:29] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:29] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:29] ERROR: Could not sanitize molecule ending on line 555603
+[21:52:29] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:29] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:29] ERROR: Could not sanitize molecule ending on line 555644
+[21:52:29] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 664156
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 664543
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 664576
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 664869
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 664904
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 665255
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 665298
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 665714
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 665753
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 668776
+[21:52:31] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 687259
+[21:52:31] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 687441
+[21:52:31] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 687526
+[21:52:31] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 688614
+[21:52:31] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 688913
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 688954
+[21:52:31] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:31] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:31] ERROR: Could not sanitize molecule ending on line 689116
+[21:52:31] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:35] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:35] ERROR: Could not sanitize molecule ending on line 869058
+[21:52:35] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:35] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:35] ERROR: Could not sanitize molecule ending on line 869672
+[21:52:35] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:37] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:37] ERROR: Could not sanitize molecule ending on line 948794
+[21:52:37] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:37] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:37] ERROR: Could not sanitize molecule ending on line 948982
+[21:52:37] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:49] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:49] ERROR: Could not sanitize molecule ending on line 1291643
+[21:52:49] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:49] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:49] ERROR: Could not sanitize molecule ending on line 1291795
+[21:52:49] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:49] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] ERROR: Could not sanitize molecule ending on line 1308722
+[21:52:49] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] ERROR: Could not sanitize molecule ending on line 1308828
+[21:52:49] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] ERROR: Could not sanitize molecule ending on line 1309956
+[21:52:49] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] ERROR: Could not sanitize molecule ending on line 1310366
+[21:52:49] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:49] ERROR: Could not sanitize molecule ending on line 1310405
+[21:52:49] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1325697
+[21:52:50] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1325851
+[21:52:50] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1326112
+[21:52:50] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1326481
+[21:52:50] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1326520
+[21:52:50] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1326557
+[21:52:50] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1352138
+[21:52:50] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1352331
+[21:52:50] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1352367
+[21:52:50] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:50] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:50] ERROR: Could not sanitize molecule ending on line 1352551
+[21:52:50] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:51] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:51] ERROR: Could not sanitize molecule ending on line 1374926
+[21:52:51] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:51] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:51] ERROR: Could not sanitize molecule ending on line 1375225
+[21:52:51] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:51] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:51] ERROR: Could not sanitize molecule ending on line 1409327
+[21:52:51] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:51] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:51] ERROR: Could not sanitize molecule ending on line 1409368
+[21:52:51] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:51] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:51] ERROR: Could not sanitize molecule ending on line 1409739
+[21:52:51] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:51] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:51] ERROR: Could not sanitize molecule ending on line 1409778
+[21:52:51] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1427502
+[21:52:52] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1427776
+[21:52:52] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1437943
+[21:52:52] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1438093
+[21:52:52] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1438245
+[21:52:52] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1452755
+[21:52:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1452799
+[21:52:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1453160
+[21:52:52] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1453336
+[21:52:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:52] ERROR: Could not sanitize molecule ending on line 1453377
+[21:52:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1477631
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1477757
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1478437
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1478480
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1479601
+[21:52:53] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1479649
+[21:52:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1479744
+[21:52:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1480018
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1482870
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1482914
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1483091
+[21:52:53] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1483133
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1483408
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1483452
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1483496
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1483731
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1483859
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1484079
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1485305
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1485475
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1486482
+[21:52:53] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1486529
+[21:52:53] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1486573
+[21:52:53] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1486759
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1486840
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1499829
+[21:52:53] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1500064
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1500742
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1500785
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1501285
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1501326
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1502169
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1502211
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503417
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503464
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503511
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503558
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503601
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503843
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503890
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1503981
+[21:52:53] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1513029
+[21:52:53] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1513225
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1513272
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1513318
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1513362
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1518264
+[21:52:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1518361
+[21:52:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1518455
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1518499
+[21:52:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:53] ERROR: Could not sanitize molecule ending on line 1518590
+[21:52:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:54] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:54] ERROR: Could not sanitize molecule ending on line 1566578
+[21:52:54] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:54] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:54] ERROR: Could not sanitize molecule ending on line 1566728
+[21:52:54] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:54] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:54] ERROR: Could not sanitize molecule ending on line 1566874
+[21:52:54] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:55] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] ERROR: Could not sanitize molecule ending on line 1606062
+[21:52:55] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] ERROR: Could not sanitize molecule ending on line 1606430
+[21:52:55] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] ERROR: Could not sanitize molecule ending on line 1606474
+[21:52:55] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] ERROR: Could not sanitize molecule ending on line 1606827
+[21:52:55] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:55] ERROR: Could not sanitize molecule ending on line 1606869
+[21:52:55] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1632274
+[21:52:56] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1632514
+[21:52:56] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1632783
+[21:52:56] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1636822
+[21:52:56] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1636953
+[21:52:56] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1637077
+[21:52:56] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1651307
+[21:52:56] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1651351
+[21:52:56] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1651487
+[21:52:56] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1651572
+[21:52:56] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1651841
+[21:52:56] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:56] ERROR: Could not sanitize molecule ending on line 1652057
+[21:52:56] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:57] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:57] ERROR: Could not sanitize molecule ending on line 1685534
+[21:52:57] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:57] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:57] ERROR: Could not sanitize molecule ending on line 1685686
+[21:52:57] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:57] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:57] ERROR: Could not sanitize molecule ending on line 1703987
+[21:52:57] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:57] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:57] ERROR: Could not sanitize molecule ending on line 1704020
+[21:52:57] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1728123
+[21:52:58] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1728778
+[21:52:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757107
+[21:52:58] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757306
+[21:52:58] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757427
+[21:52:58] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757591
+[21:52:58] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757752
+[21:52:58] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757792
+[21:52:58] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757830
+[21:52:58] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1757983
+[21:52:58] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1758135
+[21:52:58] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1768668
+[21:52:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1768833
+[21:52:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1768996
+[21:52:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1769075
+[21:52:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:58] ERROR: Could not sanitize molecule ending on line 1769227
+[21:52:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:52:59] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:59] ERROR: Could not sanitize molecule ending on line 1774642
+[21:52:59] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:59] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:59] ERROR: Could not sanitize molecule ending on line 1774938
+[21:52:59] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:59] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:59] ERROR: Could not sanitize molecule ending on line 1774977
+[21:52:59] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:52:59] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:52:59] ERROR: Could not sanitize molecule ending on line 1775020
+[21:52:59] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1859442
+[21:53:00] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1859574
+[21:53:00] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1859830
+[21:53:00] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1859994
+[21:53:00] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1863485
+[21:53:00] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1863617
+[21:53:00] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1863790
+[21:53:00] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1863911
+[21:53:00] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1863996
+[21:53:00] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:00] ERROR: Could not sanitize molecule ending on line 1864160
+[21:53:00] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:01] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:01] ERROR: Could not sanitize molecule ending on line 1917509
+[21:53:01] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1921029
+[21:53:02] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1940049
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1940085
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1940203
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1941117
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1941158
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1941435
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1941471
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1953320
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1953355
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1953734
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1953995
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:02] ERROR: Could not sanitize molecule ending on line 1954034
+[21:53:02] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:03] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:03] ERROR: Could not sanitize molecule ending on line 1976699
+[21:53:03] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:03] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:03] ERROR: Could not sanitize molecule ending on line 1976735
+[21:53:03] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:03] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:03] ERROR: Could not sanitize molecule ending on line 1977007
+[21:53:03] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:03] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:03] ERROR: Could not sanitize molecule ending on line 2003468
+[21:53:03] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:03] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:03] ERROR: Could not sanitize molecule ending on line 2003724
+[21:53:03] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:04] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:04] ERROR: Could not sanitize molecule ending on line 2045577
+[21:53:04] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:04] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:04] ERROR: Could not sanitize molecule ending on line 2045618
+[21:53:04] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:05] ERROR: Could not sanitize molecule ending on line 2081590
+[21:53:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:05] ERROR: Could not sanitize molecule ending on line 2081731
+[21:53:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:05] ERROR: Could not sanitize molecule ending on line 2082005
+[21:53:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:05] ERROR: Could not sanitize molecule ending on line 2082138
+[21:53:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:06] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:06] ERROR: Could not sanitize molecule ending on line 2117366
+[21:53:06] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:06] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:06] ERROR: Could not sanitize molecule ending on line 2121353
+[21:53:06] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:06] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:06] ERROR: Could not sanitize molecule ending on line 2126568
+[21:53:06] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:06] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:06] ERROR: Could not sanitize molecule ending on line 2144034
+[21:53:06] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:07] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] ERROR: Could not sanitize molecule ending on line 2178046
+[21:53:07] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:07] ERROR: Could not sanitize molecule ending on line 2178226
+[21:53:07] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:07] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] ERROR: Could not sanitize molecule ending on line 2185340
+[21:53:07] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] ERROR: Could not sanitize molecule ending on line 2185381
+[21:53:07] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] ERROR: Could not sanitize molecule ending on line 2185710
+[21:53:07] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:07] ERROR: Could not sanitize molecule ending on line 2185749
+[21:53:07] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:08] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:08] ERROR: Could not sanitize molecule ending on line 2193619
+[21:53:08] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:08] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:08] ERROR: Could not sanitize molecule ending on line 2193982
+[21:53:08] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:09] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:09] ERROR: Could not sanitize molecule ending on line 2234406
+[21:53:09] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:09] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:09] ERROR: Could not sanitize molecule ending on line 2234727
+[21:53:09] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] ERROR: Could not sanitize molecule ending on line 2276115
+[21:53:10] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] ERROR: Could not sanitize molecule ending on line 2276254
+[21:53:10] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] ERROR: Could not sanitize molecule ending on line 2276430
+[21:53:10] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] ERROR: Could not sanitize molecule ending on line 2276561
+[21:53:10] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] ERROR: Could not sanitize molecule ending on line 2276729
+[21:53:10] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] ERROR: Could not sanitize molecule ending on line 2303531
+[21:53:10] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:10] ERROR: Could not sanitize molecule ending on line 2303690
+[21:53:10] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:12] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] ERROR: Could not sanitize molecule ending on line 2367871
+[21:53:12] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] ERROR: Could not sanitize molecule ending on line 2368027
+[21:53:12] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] ERROR: Could not sanitize molecule ending on line 2368558
+[21:53:12] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] ERROR: Could not sanitize molecule ending on line 2368815
+[21:53:12] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] ERROR: Could not sanitize molecule ending on line 2376761
+[21:53:12] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] ERROR: Could not sanitize molecule ending on line 2377139
+[21:53:12] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:12] ERROR: Could not sanitize molecule ending on line 2377184
+[21:53:12] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:13] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:13] ERROR: Could not sanitize molecule ending on line 2389360
+[21:53:13] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:13] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:13] ERROR: Could not sanitize molecule ending on line 2389568
+[21:53:13] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:14] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:14] ERROR: Could not sanitize molecule ending on line 2434320
+[21:53:14] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:14] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:14] ERROR: Could not sanitize molecule ending on line 2434584
+[21:53:14] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:14] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:14] ERROR: Could not sanitize molecule ending on line 2471723
+[21:53:14] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:14] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:14] ERROR: Could not sanitize molecule ending on line 2471951
+[21:53:14] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2547022
+[21:53:17] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2547267
+[21:53:17] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2554947
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2554991
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2555170
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2555423
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2555518
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2555696
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2556002
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2556051
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2556098
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2556528
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:17] ERROR: Could not sanitize molecule ending on line 2556573
+[21:53:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:19] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:19] ERROR: Could not sanitize molecule ending on line 2658934
+[21:53:19] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:19] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:19] ERROR: Could not sanitize molecule ending on line 2659036
+[21:53:19] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:19] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:19] ERROR: Could not sanitize molecule ending on line 2659133
+[21:53:19] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:19] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:19] ERROR: Could not sanitize molecule ending on line 2659279
+[21:53:19] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2746027
+[21:53:22] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2747077
+[21:53:22] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2747243
+[21:53:22] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2747586
+[21:53:22] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2747727
+[21:53:22] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2747771
+[21:53:22] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2748040
+[21:53:22] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:22] ERROR: Could not sanitize molecule ending on line 2748121
+[21:53:22] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2775651
+[21:53:23] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2775776
+[21:53:23] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2779318
+[21:53:23] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2779452
+[21:53:23] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2787983
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2789101
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2789454
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2791600
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2791649
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2791696
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2798648
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2798692
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2798775
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2799385
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2799720
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2799813
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2800306
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2800353
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2800403
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2800977
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2801021
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2801572
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:23] ERROR: Could not sanitize molecule ending on line 2801616
+[21:53:23] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:24] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:24] ERROR: Could not sanitize molecule ending on line 2812881
+[21:53:24] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:24] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:24] ERROR: Could not sanitize molecule ending on line 2812972
+[21:53:24] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:24] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:24] ERROR: Could not sanitize molecule ending on line 2816405
+[21:53:24] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2911099
+[21:53:26] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2911218
+[21:53:26] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2912725
+[21:53:26] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2912922
+[21:53:26] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2913167
+[21:53:26] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2913218
+[21:53:26] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2913363
+[21:53:26] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2913502
+[21:53:26] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2913591
+[21:53:26] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:26] ERROR: Could not sanitize molecule ending on line 2913884
+[21:53:26] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2917795
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2918024
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2918412
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2918459
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2918506
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2918996
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2922456
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2922922
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2922969
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2923013
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2935613
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2935654
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2936465
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2936968
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2937014
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2937058
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2937665
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2937712
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2937758
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2937802
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2943350
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2943393
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2944103
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2944144
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2944186
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2944225
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2944602
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2944643
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945022
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945065
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945106
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945336
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945576
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945613
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945826
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2945999
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2946042
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2946083
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2946242
+[21:53:27] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2947513
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2948086
+[21:53:27] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2948371
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2948418
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2949567
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:27] ERROR: Could not sanitize molecule ending on line 2949660
+[21:53:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:28] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:28] ERROR: Could not sanitize molecule ending on line 2981813
+[21:53:28] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:28] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:28] ERROR: Could not sanitize molecule ending on line 2981991
+[21:53:28] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:29] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:29] ERROR: Could not sanitize molecule ending on line 3026770
+[21:53:29] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:29] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:29] ERROR: Could not sanitize molecule ending on line 3027000
+[21:53:29] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:29] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:29] ERROR: Could not sanitize molecule ending on line 3027137
+[21:53:29] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:30] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] ERROR: Could not sanitize molecule ending on line 3036899
+[21:53:30] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] ERROR: Could not sanitize molecule ending on line 3037095
+[21:53:30] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] ERROR: Could not sanitize molecule ending on line 3037241
+[21:53:30] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] ERROR: Could not sanitize molecule ending on line 3037384
+[21:53:30] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:30] ERROR: Could not sanitize molecule ending on line 3037563
+[21:53:30] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:31] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:31] ERROR: Could not sanitize molecule ending on line 3080472
+[21:53:31] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:31] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:31] ERROR: Could not sanitize molecule ending on line 3081067
+[21:53:31] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:31] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:31] ERROR: Could not sanitize molecule ending on line 3083869
+[21:53:31] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:31] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:31] ERROR: Could not sanitize molecule ending on line 3085275
+[21:53:31] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:31] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:31] ERROR: Could not sanitize molecule ending on line 3085416
+[21:53:31] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:32] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:32] ERROR: Could not sanitize molecule ending on line 3112754
+[21:53:32] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:32] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:32] ERROR: Could not sanitize molecule ending on line 3114054
+[21:53:32] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:34] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:34] ERROR: Could not sanitize molecule ending on line 3181639
+[21:53:34] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:34] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:34] ERROR: Could not sanitize molecule ending on line 3181838
+[21:53:34] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:34] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:34] ERROR: Could not sanitize molecule ending on line 3181984
+[21:53:34] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:34] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:34] ERROR: Could not sanitize molecule ending on line 3182134
+[21:53:34] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:34] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:34] ERROR: Could not sanitize molecule ending on line 3182223
+[21:53:34] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:35] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:35] ERROR: Could not sanitize molecule ending on line 3212112
+[21:53:35] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:35] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:35] ERROR: Could not sanitize molecule ending on line 3213941
+[21:53:35] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:35] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:35] ERROR: Could not sanitize molecule ending on line 3214420
+[21:53:35] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:53:37] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:37] ERROR: Could not sanitize molecule ending on line 3258211
+[21:53:37] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:37] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:37] ERROR: Could not sanitize molecule ending on line 3258419
+[21:53:37] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3297837
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3297878
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3298417
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3298454
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3298861
+[21:53:38] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3298904
+[21:53:38] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3299155
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3299202
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3299690
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3299910
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3299951
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3300072
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3300247
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3300422
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:38] ERROR: Could not sanitize molecule ending on line 3300543
+[21:53:38] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3361853
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3361938
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3361980
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3362020
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3366831
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3367701
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3368656
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3368700
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3369409
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3373295
+[21:53:40] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3373481
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3373525
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3373925
+[21:53:40] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3374049
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3374257
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3374306
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3374353
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3374929
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3374972
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3375465
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3375507
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3376700
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3376836
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3377063
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3377187
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3379026
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3379473
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3379664
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3379883
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3380557
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3380699
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:40] ERROR: Could not sanitize molecule ending on line 3380829
+[21:53:40] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] ERROR: Could not sanitize molecule ending on line 3381887
+[21:53:41] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] ERROR: Could not sanitize molecule ending on line 3381934
+[21:53:41] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] ERROR: Could not sanitize molecule ending on line 3381981
+[21:53:41] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] ERROR: Could not sanitize molecule ending on line 3382542
+[21:53:41] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:41] ERROR: Could not sanitize molecule ending on line 3382627
+[21:53:41] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:45] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:45] ERROR: Could not sanitize molecule ending on line 3530675
+[21:53:45] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:45] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:45] ERROR: Could not sanitize molecule ending on line 3530764
+[21:53:45] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:45] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:45] ERROR: Could not sanitize molecule ending on line 3532822
+[21:53:45] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:45] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:45] ERROR: Could not sanitize molecule ending on line 3532960
+[21:53:45] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:49] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:49] ERROR: Could not sanitize molecule ending on line 3662263
+[21:53:49] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:49] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:49] ERROR: Could not sanitize molecule ending on line 3662417
+[21:53:49] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:50] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] ERROR: Could not sanitize molecule ending on line 3712084
+[21:53:50] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] ERROR: Could not sanitize molecule ending on line 3712290
+[21:53:50] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] ERROR: Could not sanitize molecule ending on line 3712387
+[21:53:50] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] ERROR: Could not sanitize molecule ending on line 3712539
+[21:53:50] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:50] ERROR: Could not sanitize molecule ending on line 3712687
+[21:53:50] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3783853
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3784102
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3784762
+[21:53:52] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3784966
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3785013
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3785261
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3785394
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3786034
+[21:53:52] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3786084
+[21:53:52] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3786447
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3786494
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3786881
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3787014
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3790718
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3790765
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3790953
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791136
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791235
+[21:53:52] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791428
+[21:53:52] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791476
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791522
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791611
+[21:53:52] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791747
+[21:53:52] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3791938
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3792029
+[21:53:52] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3792206
+[21:53:52] ERROR: Explicit valence for atom # 8 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3792250
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:52] ERROR: Could not sanitize molecule ending on line 3792292
+[21:53:52] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3820516
+[21:53:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3820711
+[21:53:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3820802
+[21:53:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3821033
+[21:53:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3821212
+[21:53:53] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3826473
+[21:53:53] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3826628
+[21:53:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3826869
+[21:53:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3827057
+[21:53:53] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3827108
+[21:53:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:53] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:53] ERROR: Could not sanitize molecule ending on line 3827354
+[21:53:53] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4007168
+[21:53:58] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4007364
+[21:53:58] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4007510
+[21:53:58] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4012371
+[21:53:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4012468
+[21:53:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4012565
+[21:53:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4012711
+[21:53:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:53:58] ERROR: Could not sanitize molecule ending on line 4012844
+[21:53:58] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:01] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:01] ERROR: Could not sanitize molecule ending on line 4137396
+[21:54:01] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:01] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:01] ERROR: Could not sanitize molecule ending on line 4137531
+[21:54:01] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] ERROR: Could not sanitize molecule ending on line 4172088
+[21:54:02] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] ERROR: Could not sanitize molecule ending on line 4172227
+[21:54:02] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] ERROR: Could not sanitize molecule ending on line 4172403
+[21:54:02] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:02] ERROR: Could not sanitize molecule ending on line 4172534
+[21:54:02] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] ERROR: Could not sanitize molecule ending on line 4288723
+[21:54:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] ERROR: Could not sanitize molecule ending on line 4288886
+[21:54:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] ERROR: Could not sanitize molecule ending on line 4289045
+[21:54:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] ERROR: Could not sanitize molecule ending on line 4289200
+[21:54:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:05] ERROR: Could not sanitize molecule ending on line 4289347
+[21:54:05] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:08] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:08] ERROR: Could not sanitize molecule ending on line 4392031
+[21:54:08] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:08] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:08] ERROR: Could not sanitize molecule ending on line 4392438
+[21:54:08] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:08] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:08] ERROR: Could not sanitize molecule ending on line 4392797
+[21:54:08] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4532211
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4532424
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4535302
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4535346
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4535605
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4535645
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4535740
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4535915
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4538338
+[21:54:11] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4538648
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4538698
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4539007
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4539582
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4539904
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4539948
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4540431
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4540471
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4540699
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:11] ERROR: Could not sanitize molecule ending on line 4540966
+[21:54:11] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:12] ERROR: Could not sanitize molecule ending on line 4545381
+[21:54:12] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:12] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:12] ERROR: Could not sanitize molecule ending on line 4545427
+[21:54:12] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] ERROR: Could not sanitize molecule ending on line 4545791
+[21:54:12] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] ERROR: Could not sanitize molecule ending on line 4545841
+[21:54:12] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] ERROR: Could not sanitize molecule ending on line 4547587
+[21:54:12] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] ERROR: Could not sanitize molecule ending on line 4547690
+[21:54:12] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:12] ERROR: Could not sanitize molecule ending on line 4547883
+[21:54:12] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4599130
+[21:54:13] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4599669
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4607092
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4607380
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4607526
+[21:54:13] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4607989
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4608036
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4608599
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4611198
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4611423
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4611520
+[21:54:13] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4611709
+[21:54:13] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4611756
+[21:54:13] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4611997
+[21:54:13] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4612251
+[21:54:13] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4612302
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4612349
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4612586
+[21:54:13] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4612813
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4613021
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4613448
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:13] ERROR: Could not sanitize molecule ending on line 4613491
+[21:54:13] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:16] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:16] ERROR: Could not sanitize molecule ending on line 4715953
+[21:54:16] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:16] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:16] ERROR: Could not sanitize molecule ending on line 4716113
+[21:54:16] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4733108
+[21:54:17] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4733316
+[21:54:17] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4733714
+[21:54:17] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4752459
+[21:54:17] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4752825
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4753323
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4755030
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4755074
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4755299
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4755552
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4755723
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4755763
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4755944
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4756170
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4756300
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4756500
+[21:54:17] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4756550
+[21:54:17] ERROR: Explicit valence for atom # 2 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4756766
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4756869
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4757261
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:17] ERROR: Could not sanitize molecule ending on line 4757356
+[21:54:17] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[21:54:21] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:21] ERROR: Could not sanitize molecule ending on line 4907363
+[21:54:21] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:21] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:21] ERROR: Could not sanitize molecule ending on line 4907565
+[21:54:21] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:21] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:21] ERROR: Could not sanitize molecule ending on line 4907662
+[21:54:21] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:21] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:21] ERROR: Could not sanitize molecule ending on line 4907857
+[21:54:21] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5149110
+[21:54:27] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5149221
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5149479
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5150124
+[21:54:27] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5150340
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5150798
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5150844
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5163902
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5164475
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5164520
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:27] ERROR: Could not sanitize molecule ending on line 5164895
+[21:54:27] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:28] Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:28] ERROR: Could not sanitize molecule ending on line 5188330
+[21:54:28] ERROR: Explicit valence for atom # 1 C, 5, is greater than permitted
+[21:54:28] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:28] ERROR: Could not sanitize molecule ending on line 5188493
+[21:54:28] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:28] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:28] ERROR: Could not sanitize molecule ending on line 5188852
+[21:54:28] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:30] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:30] ERROR: Could not sanitize molecule ending on line 5291825
+[21:54:30] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:30] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:30] ERROR: Could not sanitize molecule ending on line 5292089
+[21:54:30] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:30] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:30] ERROR: Could not sanitize molecule ending on line 5292244
+[21:54:30] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:30] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:30] ERROR: Could not sanitize molecule ending on line 5292399
+[21:54:30] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:38] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:38] ERROR: Could not sanitize molecule ending on line 5561976
+[21:54:38] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:38] Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:38] ERROR: Could not sanitize molecule ending on line 5563705
+[21:54:38] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+[21:54:40] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:40] ERROR: Could not sanitize molecule ending on line 5614853
+[21:54:40] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:40] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:40] ERROR: Could not sanitize molecule ending on line 5615453
+[21:54:40] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:44] Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:44] ERROR: Could not sanitize molecule ending on line 5716869
+[21:54:44] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+[21:54:44] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:44] ERROR: Could not sanitize molecule ending on line 5729263
+[21:54:44] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:44] Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:44] ERROR: Could not sanitize molecule ending on line 5729540
+[21:54:44] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[21:54:44] Explicit valence for atom # 7 C, 5, is greater than permitted
+[21:54:44] ERROR: Could not sanitize molecule ending on line 5729584
+[21:54:44] ERROR: Explicit valence for atom # 7 C, 5, is greater than permitted
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+Traceback (most recent call last):
+  File "../../hgfp/hgfp/app/supervised_train.py", line 294, in <module>
+    run(args)
+  File "../../hgfp/hgfp/app/supervised_train.py", line 227, in run
+    u_hat_vl)))
+  File "/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/sklearn/metrics/_regression.py", line 252, in mean_squared_error
+    y_true, y_pred, multioutput)
+  File "/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/sklearn/metrics/_regression.py", line 84, in _check_reg_targets
+    check_consistent_length(y_true, y_pred)
+  File "/home/wangy1/miniconda3/envs/hgfp/lib/python3.7/site-packages/sklearn/utils/validation.py", line 212, in check_consistent_length
+    " samples: %r" % [int(l) for l in lengths])
+ValueError: Found input variables with inconsistent numbers of samples: [33, 13377]
