@@ -1,0 +1,55 @@
+Sender: LSF System <lsfadmin@lt05>
+Subject: Job 13863582: <gcn_with_combine_readout_qm9> in cluster <lila> Exited
+
+Job <gcn_with_combine_readout_qm9> was submitted from host <lilac-ln02> by user <wangy1> in cluster <lila> at Sun Feb 16 02:08:43 2020
+Job was executed on host(s) <12*lt05>, in queue <gpuqueue>, as user <wangy1> in cluster <lila> at Sun Feb 16 02:08:43 2020
+</home/wangy1> was used as the home directory.
+</data/chodera/wangyq/hgfp_scripts/gcn_with_combine_readout_qm9> was used as the working directory.
+Started at Sun Feb 16 02:08:43 2020
+Terminated at Sun Feb 16 10:08:50 2020
+Results reported at Sun Feb 16 10:08:50 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#BSUB -q gpuqueue
+#BSUB -J gcn_with_combine_readout_qm9
+#BSUB -m "ld-gpu ls-gpu lt-gpu lp-gpu lg-gpu lv-gpu lu-gpu"
+#BSUB -q gpuqueue -n 12 -gpu "num=1:j_exclusive=yes"
+#BSUB -R "rusage[mem=4] span[hosts=1]"
+#BSUB -W 8:00
+#BSUB -o %J.stdout
+#BSUB -eo %J.stderr
+
+python ../../hgfp/hgfp/app/supervised_train.py --model gcn_with_combine_readout --batch_size 32 --n_batches_te 418 --n_batches_vl 418 --config 128 'tanh' 128 'tanh' 128 --learning_rate 1e-3 --n_epochs 100 --hetero True
+git add *
+git commit -m "[automated commit] updated data"
+git push https://yuanqing-wang:Ithinkthere4iam@github.com/choderalab/hgfp.git
+
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time :                                   48859.00 sec.
+    Max Memory :                                 29 GB
+    Average Memory :                             23.57 GB
+    Total Requested Memory :                     48.00 GB
+    Delta Memory :                               19.00 GB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                51
+    Run time :                                   28809 sec.
+    Turnaround time :                            28807 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <13863582.stderr> for stderr output of this job.
+
