@@ -7,4 +7,7 @@
 #BSUB -o %J.stdout
 #BSUB -eo %J.stderr
 
-python ../../hgfp/hgfp/app/supervised_train.py --model gcn_with_combine_readout --batch_size 32 --n_batches_te 418 --n_batches_vl 418 --config 32 'tanh' 32 'tanh' --learning_rate 1e-3 --n_epochs 30 --hetero True
+python ../../hgfp/hgfp/app/supervised_train.py --model gcn_with_combine_readout --batch_size 32 --n_batches_te 418 --n_batches_vl 418 --config 128 'tanh' 128 'tanh' 128 --learning_rate 1e-3 --n_epochs 100 --hetero True
+git add *
+git commit -m "[automated commit] updated data"
+git push https://yuanqing-wang:Ithinkthere4iam@github.com/choderalab/hgfp.git
