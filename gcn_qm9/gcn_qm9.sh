@@ -16,6 +16,7 @@ done
 while true
 do
     git add *
+    git add */*
     git commit -m "[automated commit] updated data"
     git push https://yuanqing-wang:Ithinkthere4iam@github.com/choderalab/hgfp.git
     sleep 60
