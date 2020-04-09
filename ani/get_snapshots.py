@@ -113,6 +113,8 @@ def topology_batched_md(num=-1, batch_size=16, step_size=100, ani_path='.'):
                             0.1 * g.ndata['xyz'].numpy())
 
                         simulation.reporters.append(DCDReporter('ds_md/' + str(idx) + '.dcd', 10))
+                        
+                        simulation.minimizeEnergy()
 
                         simulation.step(10000)
 
