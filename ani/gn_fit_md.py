@@ -15,7 +15,7 @@ def run(config):
 
     xs = [torch.tensor(
             md.formats.DCDTrajectoryFile('ds_md/%s.dcd' % idx).read()[0])\
-                for idx in range(32)]
+                for idx in range(2)]
 
     # gs, _ = dgl.data.utils.load_graphs('ds_md/gs.bin')
     ifs = oechem.oemolistream()
@@ -27,14 +27,13 @@ def run(config):
 
     gs = [hgfp.data.mm_energy.u(mol, toolkit='openeye', return_graph=True) for mol in mols]
 
-    print(gs)
 
     # gs = [hgfp.heterograph.from_graph(g) for g in gs]
     
     ds = list(zip(gs, xs))
 
-    ds_tr= ds[:24]
-    ds_te =ds[24:]
+    ds_tr= ds[:1]
+    ds_te =ds[1:]
     
     mean_and_std_dict = torch.load('/data/chodera/wangyq/hgfp_scripts/gcn_param/2020-03-30_11_41_19/norm_dict')
 
@@ -46,11 +45,13 @@ def run(config):
 
     norm, unnorm = hgfp.data.utils.get_norm_fn_log_normal(mean_and_std_dict)
 
-    opt = torch.optim.Adam(net.parameters(), 1e-2)
+    # opt = torch.optim.LBFGS(net.parameters(), 1e-1)
 
-    # loss_fn = torch.nn.functional.mse_loss
+    opt = torch.optim.ASGD(net.parameters(), 1e-5)
 
-    loss_fn = torch.nn.L1Loss()
+    loss_fn = torch.nn.functional.mse_loss
+
+    # loss_fn = torch.nn.L1Loss()
 
     def train(g_, x):
         
@@ -61,6 +62,13 @@ def run(config):
         g = net(g, return_graph=True)
 
         g = unnorm(g)
+
+        '''
+        for term in ['bond', 'angle']:
+            for param in ['k', 'eq']:
+                g.nodes[term].data[param] = torch.exp(
+                    g.nodes[term].data[param])
+        '''
 
         g = dgl.batch_hetero([g for _ in range(x.shape[0])])
 
@@ -97,62 +105,63 @@ def run(config):
                 dim=1),
             dim=1)
 
+
         return u, u_hat
 
-
-    for idx_epoch in range(100):
-        idx = 0
-        loss = 0.
+    for idx_epoch in range(2000):
         for g_, x in ds_tr:
             x = x[random.choices(list(range(x.shape[0])), k=64)]
             u, u_hat = train(g_, x)
-            loss += loss_fn(u, u_hat)
+            loss = loss_fn(u, u_hat)
+
+            '''
+            def l(g_=g_, x=x):
+                u, u_hat = train(g_, x)
+                return loss_fn(u, u_hat)
+            '''
+
+            print(loss)            
+            opt.zero_grad()
+            loss.backward()
+            opt.step()
+
+        if idx_epoch % 100 == 0:
+
+            net.eval()
             
-            idx += 1
-            
-            if idx == 8:
-                idx = 0
-                
-                opt.zero_grad()
-                loss.backward()
-                opt.step()
-                loss = 0.
-    net.eval()
-    
+            # torch.save(net.state_dict(), 'model_md.ds')
 
-    # torch.save(net.state_dict(), 'model.ds')
+            u_tr = []
+            u_hat_tr = []
+            u_te = []
+            u_hat_te = []
 
-    u_tr = []
-    u_hat_tr = []
-    u_te = []
-    u_hat_te = []
+            for g_, x in ds_tr:
+                u, u_hat = train(g_, x)
+                u_tr.append(u)
+                u_hat_tr.append(u_hat)
 
-    for g_, x in ds_tr:
-        u, u_hat = train(g_, x)
-        u_tr.append(u)
-        u_hat_tr.append(u_hat)
+            for g_, x in ds_te:
+                u, u_hat = train(g_, x)
+                u_te.append(u)
+                u_hat_te.append(u_hat)
 
-    for g_, x in ds_te:
-        u, u_hat = train(g_, x)
-        u_te.append(u)
-        u_hat_te.append(u_hat)
+            rmses_tr = np.array([torch.sqrt(torch.mean((u - u_hat) ** 2)).detach().numpy() for u, u_hat in zip(u_tr, u_hat_tr)])
+            rmses_te = np.array([torch.sqrt(torch.mean((u - u_hat) ** 2)).detach().numpy() for u, u_hat in zip(u_te, u_hat_te)])
 
-    rmses_tr = np.array([torch.sqrt(torch.mean((u - u_hat) ** 2)).detach().numpy() for u, u_hat in zip(u_tr, u_hat_tr)])
-    rmses_te = np.array([torch.sqrt(torch.mean((u - u_hat) ** 2)).detach().numpy() for u, u_hat in zip(u_te, u_hat_te)])
+            np.save('rmses_tr', rmses_tr)
+            np.save('rmses_te', rmses_te)
 
-    np.save('rmses_tr', rmses_tr)
-    np.save('rmses_te', rmses_te)
+            print(rmses_tr)
+            print(rmses_te)
 
-    print(rmses_tr)
-    print(rmses_te)
+            from sklearn.metrics import r2_score
 
-    from sklearn.metrics import r2_score
+            r2_tr = np.array([r2_score(u.detach().numpy(), u_hat.detach().numpy()) for u, u_hat in zip(u_tr, u_hat_tr)])
+            r2_te = np.array([r2_score(u.detach().numpy(), u_hat.detach().numpy()) for u, u_hat in zip(u_te, u_hat_te)])
 
-    r2_tr = np.array([r2_score(u.detach().numpy(), u_hat.detach().numpy()) for u, u_hat in zip(u_tr, u_hat_tr)])
-    r2_te = np.array([r2_score(u.detach().numpy(), u_hat.detach().numpy()) for u, u_hat in zip(u_te, u_hat_te)])
-
-    print(r2_tr)
-    print(r2_te)
+            print(r2_tr)
+            print(r2_te)
 
 if __name__ == '__main__':
     config = sys.argv[1:] 
